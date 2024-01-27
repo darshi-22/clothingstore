@@ -1,1 +1,1 @@
-<p>This project is based on html,css & javascript</p>
+<h3>This project is based on html,css & javascript</h3>
